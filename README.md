@@ -18,7 +18,8 @@
 
 ## Usage
 
-```python Start_App.py
+```
+python Start_App.py
 ```
 
 ## install dependcies
